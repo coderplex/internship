@@ -3,17 +3,21 @@ Coderplex is building a modern learning platform [Learnplex](https://coderplex.i
 
 We are offering a internship program for students. Anyone can participate to join this program, and earn a certificate. 
 
-To earn a certificate, you will need to make **at least 10 successful contributions over 30 days**. We define our contributions as such : 
-- Contribute to the [Learnplex project](https://github.com/coderplex/learnplex). Resolve bugs, help build new features, submit a PR. If your PR is accepeted, then your contribution is counted. 
-- Creating new issues on in the Learnplex repo. If we think it is a valid issue, we will mark your contribution as successful.
-- Creating a comprehensive complete resource on any technical topic on the Coderplex platform. This contribution will be marked as successful only if we think the resource created by you is comprehensive enough and helps someone learn that topic or technology 
-- Sharing any of the resources on the Coderplex platform with people and collecting their feedback, sharing it with us. We will mark this contribution as successful only if the feedback in complete and directly helpful to us. 
+Our Internship Program has a scoring system, descirbed below.
+- 25 Points : Contribute to the [Learnplex project](https://github.com/coderplex/learnplex). Resolve bugs, help build new features, submit a PR. 
+- 20 Points : Creating a comprehensive complete resource on any technical topic on the Coderplex platform. 
+- 10 Points : Sharing any of the resources on the Coderplex platform with people, collecting their feedback, sharing it with us. 
+- 5 Points : Creating new issues on in the Learnplex repo, for a bug you notice or feature
 
-We will also provide additional tasks seperate from these above, and will use those to evaluate you. 
+**We will score you points for each of the above tasks based on your performance in doing them. The higher your quality of work, the more points you will be awarded for that task.**
 
-### 1st Task (Mandatory)
-Fork this repo, clone it locally, create a folder with your name, create a file with contributions.md, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
+To receive a certificate, you will need to earn **at least 100 points over 30 days**.
+
+We will also provide additional tasks seperate from the above ones, and will award special points to you based on those. 
+
+### To Join this Program (Mandatory)
+Fork this repo, clone it locally, create a folder with your name, create a file with the name contributions.md, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
 
 Among all those making contributions, the most promising students who show the most dedication, commitment, expertise and ability will be selected to receive direct mentorship from us. 
 
-We will provide any guidance you require in fulfilling the above tasks. If you have any questions, you can ask them in the WhatsApp group. 
+We will provide any general guidance you require in fulfilling the above tasks. If you have any questions, you can ask them in the WhatsApp group. 
