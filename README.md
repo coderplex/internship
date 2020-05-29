@@ -6,8 +6,8 @@ We are offering a internship program for students. Anyone can participate to joi
 Our Internship Program has a scoring system, descirbed below.
 - 25 Points : Contribute to the [Learnplex project](https://github.com/coderplex/learnplex). Resolve bugs, help build new features, submit a PR. 
 - 20 Points : Creating a comprehensive complete resource on any technical topic on the Coderplex platform. 
-- 10 Points : Sharing any of the resources on the Coderplex platform with people, collecting their feedback, sharing it with us. 
-- 5 Points : Creating new issues on in the Learnplex repo, for a bug you notice or feature
+- 10 Points : Sharing any of the resources with people, collecting their feedback, reporting it back to us. 
+- 5 Points : Creating new issues on the Learnplex repo, for a bug you notice.
 
 **We will score you points for each of the above tasks based on your performance in doing them. The higher your quality of work, the more points you will be awarded for that task.**
 
