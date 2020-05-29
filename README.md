@@ -18,6 +18,8 @@ We will also provide additional tasks seperate from the above ones, and will awa
 ### To Join this Program (Mandatory)
 Fork this repo, clone it locally, create a folder with your name, create a file with the name contributions.md, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
 
+After making any contribution, you will need to update your contributions.md file inside your folder with links and description of the contribution you have made, push it and send a PR to this repo. We will score you when accepting the PR. 
+
 Among all those making contributions, the most promising students who show the most dedication, commitment, expertise and ability will be selected to receive direct mentorship from us. 
 
 We will provide any general guidance you require in fulfilling the above tasks. If you have any questions, you can ask them in the WhatsApp group. 
