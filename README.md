@@ -26,7 +26,7 @@ Fork this repo, clone it locally, create a new folder with your name inside the 
 
 After making any contribution, you will need to update your `contributions.md` file inside your folder with links and description of the contribution you have made, push it and send a PR to this repo. **We will score you when accepting the PR.** 
 
-You will have to submit the feedback you collect from users inside the `/user-feedback` folder in this repo. You will have to create a new .md file using your name inside it, and send a PR. 
+You will have to submit the feedback you collect from users inside the [`/user-feedback`](https://github.com/coderplex/internship/tree/master/user-feedback) folder in this repo. You will have to create a new .md file using your name inside it (For example : 'kapil-dutta.md'), and send a PR. 
 
 ### Contributions.md Document Format : 
 - Type of Contribution (Code Contribution (Resolving Bug or Feature Implimentation), New Issue, Creating new Resource, User Feedback)
