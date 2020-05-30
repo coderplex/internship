@@ -22,7 +22,7 @@ We will provide any general guidance you require in fulfilling the above tasks. 
 ### To Join this Program (Mandatory)
 Submit this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe_Hds8IYjYtQjxRN0zMBcUpZsZHhM_RVP0NTMSmnPDfkUwPQ/viewform).
 
-Fork this repo, clone it locally, create a new folder with your name inside the `/interns` folder, create a file with the name `contributions.md` inside this new folder, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
+Fork this repo, clone it locally, create a new folder with your name inside the [`/interns`](https://github.com/coderplex/internship/tree/master/interns) folder, create a file with the name `contributions.md` inside this new folder, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
 
 After making any contribution, you will need to update your `contributions.md` file inside your folder with links and description of the contribution you have made, push it and send a PR to this repo. **We will score you when accepting the PR.** 
 
