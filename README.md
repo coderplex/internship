@@ -20,7 +20,7 @@ Among all those making contributions, the most promising students who show the m
 We will provide any general guidance you require in fulfilling the above tasks. If you have any questions, you can ask them in the WhatsApp group. 
 
 ### To Join this Program (Mandatory)
-Submit this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe_Hds8IYjYtQjxRN0zMBcUpZsZHhM_RVP0NTMSmnPDfkUwPQ/viewform).
+Submit this [Form](https://internship.coderplex.in/enroll).
 
 Fork this repo, clone it locally, create a new folder with your name inside the [`/interns`](https://github.com/coderplex/internship/tree/master/interns) folder, create a file with the name `contributions.md` inside this new folder, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
 
