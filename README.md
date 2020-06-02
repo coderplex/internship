@@ -8,7 +8,7 @@ Our Internship Program has a scoring system, descirbed below.
 - **20 Points** : Creating a comprehensive complete resource on any technical topic on the Coderplex platform. 
 - **10 Points** : Sharing any of the resources with people, collect their feedback, reporting it back to us. 
 - **5 Points** : Creating new issues on the Learnplex repo, for a bug you notice.
-- **5 Point** : Help your peers solve their problems and answer their questions in the group
+- **5 Points** : Help your peers solve their problems and answer their questions in the group
 
 **We will score you points for each of the above tasks based on your performance in doing them. The higher your quality of work, the more points you will be awarded for that task.**
 
