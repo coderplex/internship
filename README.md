@@ -8,6 +8,7 @@ Our Internship Program has a scoring system, descirbed below.
 - **20 Points** : Creating a comprehensive complete resource on any technical topic on the Coderplex platform. 
 - **10 Points** : Sharing any of the resources with people, collect their feedback, reporting it back to us. 
 - **5 Points** : Creating new issues on the Learnplex repo, for a bug you notice.
+- **5 Points** : Help your peers solve their problems and answer their questions in the group
 
 **We will score you points for each of the above tasks based on your performance in doing them. The higher your quality of work, the more points you will be awarded for that task.**
 
@@ -24,11 +25,11 @@ Submit this [Form](https://internship.coderplex.in/enroll).
 
 Fork this repo, clone it locally, create a new folder with your name inside the [`/interns`](https://github.com/coderplex/internship/tree/master/interns) folder, create a file with the name `contributions.md` inside this new folder, save and commit these changes, push it to your fork and send a Pull Request to this repo.  
 
-After making any contribution, you will need to update your `contributions.md` file inside your folder with links and description of the contribution you have made, push it and send a PR to this repo. **We will score you when accepting the PR.** 
+After making any contribution, you will need to update your `contributions.md` file inside your folder with links and description of the contribution you have made, push it and send a PR to this repo. For Peer Points, you will need to ask the peer you have helped to visit the PR and confirm in the comments that you have helped them with the above. **We will score you when accepting the PR**. 
 
 You will have to submit the feedback you collect from users inside the [`/user-feedback`](https://github.com/coderplex/internship/tree/master/user-feedback) folder in this repo. You will have to create a new .md file using your name inside it (For example : 'kapil-dutta.md'), and send a PR. 
 
 ### Contributions.md Document Format : 
-- Type of Contribution (Code Contribution (Resolving Bug or Feature Implimentation), New Issue, Creating new Resource, User Feedback)
-- Brief description of the work you have done, how you did it, what you have learnt, what was the output etc
+- Type of Contribution (Code Contribution [Resolving Bug or Feature Implimentation], New Issue, Creating new Resource, User Feedback, Peer Help)
+- Brief description of the work you have done, how you did it, what you have learnt, what was the output etc. 
 - Link to the contribution or relevant material (For example, link to the PR or issue, or the resource you have created)
